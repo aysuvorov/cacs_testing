@@ -12,7 +12,7 @@ Using graph-based methods for classification tasks.
 [An overview article](https://aysuvorov.github.io/docs/pages/networks/paren_syn_corr_guide/) by A.Yu. Suvorov serves as an introductory theoretical basis.
 
 
-## Convolutional NN's with graph classification (Convo-network-with-graphs)
+## Convolutional NN's with graph classification ([Convo-network-with-graphs](https://github.com/aysuvorov/cacs_testing/tree/main/Convo-network-with-graphs))
 
 Репозиторий содержит информацию о методах представления данных в виде графов с последующей отправкой графа в сверточную нейросеть. 
 
@@ -33,7 +33,7 @@ In fact, the optimization requires the transformation of the indicators of an in
 
 It requires the installation of third-party modules from [Python_scripts](https://github.com/aysuvorov/medstats/tree/master/Python_scripts).
 
-## Time series approaches for assessing biologic system dynamic changes (Ts-graph-methods)
+## Time series approaches for assessing biologic system dynamic changes ([Ts-graph-methods](https://github.com/aysuvorov/cacs_testing/tree/main/Ts-graph-methods))
 
 Демонстрация методов обработки временных рядов с помощью графов. Использован паренклитический подход M.Zanin и корреляционные графы А.Горбаня. 
 
